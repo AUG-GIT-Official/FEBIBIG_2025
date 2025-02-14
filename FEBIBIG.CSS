@@ -707,12 +707,12 @@ flex-direction: column;
     
     .NGL_LINK_SECTION input{
      text-align: center;
-     padding: 100%;
+     padding: 1%;
      margin-right: 5px;
     }
     
     .NGL_LINK_SECTION button{
-        padding: 0% 3%;
+        padding: 0% 0%;
         margin-bottom: 10%;
     }
     #nglLinkButton {
@@ -1054,17 +1054,18 @@ flex-direction: column;
     }
 
     .NGL_LINK_SECTION label{
-        font-size: 80%;
+        font-size: 60%;
     }
     
     .NGL_LINK_SECTION input{
      text-align: center;
-     padding: 100%;
+     padding: 1%;
      margin-right: 5px;
+     padding: 1%;
     }
     
     .NGL_LINK_SECTION button{
-        padding: 0% 3%;
+        padding: 0% 0%;
         margin-bottom: 10%;
     }
     #nglLinkButton {
@@ -1411,7 +1412,7 @@ flex-direction: column;
     
     .NGL_LINK_SECTION input{
      text-align: center;
-     padding: 100%;
+     padding: 1%;
      margin-right: 5px;
     }
     
@@ -1765,7 +1766,7 @@ flex-direction: column;
     
     .NGL_LINK_SECTION input{
      text-align: center;
-     padding: 100%;
+     padding: 1%;
      margin-right: 5px;
     }
     
