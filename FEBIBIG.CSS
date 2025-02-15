@@ -58,8 +58,8 @@ iframe{
    mask-image: linear-gradient(to right,
    rgba(0,0,0,0),
    rgba(0,0,0,1) 20%,
-   /* rgba(0,0,0,1) 80%,
-   rgb(0, 0, 0,0) */
+   rgba(0,0,0,1) 80%,
+   rgb(0, 0, 0,0)
    );
    background-color: #000000;
    border-top-left-radius: 15px;
