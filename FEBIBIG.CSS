@@ -264,6 +264,7 @@ flex-direction: column;
 
 .ABOUT_IMAGE img{
     width: 100%;
+    border-radius: 20px;
 }
 
 .SECTION_THREE{
@@ -326,6 +327,11 @@ flex-direction: column;
     text-align: center;
 }
 
+.RULES_IMAGE img {
+        width: 100%;
+ border-radius: 20px;
+
+    }
 
 .RULE_CARD{
     background-color: white;
